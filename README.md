@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm I'm Shweta :)</h1>
+<h1 align="center">Hey there 👋, I'm Shweta :)</h1>
 <h3 align="center">An enthusiastic learner</h3>
 
 - 📫 How to reach me **sanvi0071@gmail.com**
